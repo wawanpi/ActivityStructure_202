@@ -28,3 +28,9 @@ int main() {
 	cin >> mhs.alamat.kota;
 	cout << "Masukan Umur : ";
 	cin >> mhs.umur;
+
+	cout << "\tnim: " << mhs.nim;
+	cout << "\tnama: " << mhs.nama;
+	cout << "\tdesa: " << mhs.desa;
+	cout << "\tkota: " << mhs.kota;
+}
