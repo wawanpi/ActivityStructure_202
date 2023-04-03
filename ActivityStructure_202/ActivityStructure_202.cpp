@@ -28,6 +28,7 @@ int main()
 
 	cout << "\nNim : " << mhs1.nim;
 	cout << "\nNama : " << mhs1.nama;
+	cout << "\nAlamat : " << mhs1.alamat;
 };
 
 
