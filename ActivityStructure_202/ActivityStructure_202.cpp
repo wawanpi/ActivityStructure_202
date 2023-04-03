@@ -25,6 +25,8 @@ int main()
 	cin >> mhs2.alamat;
 	cout << "Masukan Umur :";
 	cin >> mhs2.umur;
+
+	cout << "\nNim : " << mhs1.nim;
 };
 
 
