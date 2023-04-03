@@ -33,9 +33,9 @@ int main()
 
 
 	cout << "\nNim : " << mhs2.nim;
-	cout << "\nNim : " << mhs2.nama;
-	cout << "\nNim : " << mhs1.nim;
-	cout << "\nNim : " << mhs1.nim;
+	cout << "\nNama : " << mhs2.nama;
+	cout << "\nAlamat : " << mhs2.alamat;
+	cout << "\numur : " << mhs2.umur;
 };
 
 
