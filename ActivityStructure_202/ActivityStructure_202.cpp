@@ -12,4 +12,9 @@ struct Mahasiwa {
 int main()
 {
 	Mahasiwa mhs1, mhs2;
+	mhs1.nim = "20220140202";
+	mhs1.nama = "wawan";
+	mhs1.alamat = "Riau";
+	mhs1.umur = 18;
+
 }
